@@ -1,4 +1,4 @@
-# This is my own file archiver
+# This is my own file archiver (C)
 ## Input format:
 *--file FILE* <br/>
 *--create* <br/>
